@@ -1,6 +1,6 @@
 var PLAY = 1;
 var END = 0;
-var gameState = PLAY
+var gameState = "PLAY"
 
 var bow, arrow, background, redB, pinkB, greenB, blueB, arrowGroup;
 var bowImage, arrowImage, green_balloonImage, red_balloonImage, pink_balloonImage, blue_balloonImage, backgroundImage;
